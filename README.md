@@ -1,6 +1,7 @@
 ### Hello World! I'm Mateus de Sales
 
 - 📍 COTUCA - Technical School of Campinas
+- 📍 USP - Sao Paulo University
 
 <div align="center">
   <a href="https://github.com/mts03">
