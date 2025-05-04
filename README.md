@@ -19,7 +19,6 @@
   <img align="center" alt="sales-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="sales-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="sales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/874.png">
 </div>
 
 <div> 
